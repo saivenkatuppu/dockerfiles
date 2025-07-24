@@ -3,4 +3,4 @@ ENV COURSE="DEVOPS" \
       TRAINER="SK" \
       DURATION="140HR" \
       COM.FSNJB.NJVBH="JBGVOJNRLNBRG"
-CMD ["sleep" "1000"]
+CMD ["sleep","1000"]
