@@ -1,2 +1,2 @@
 FROM sai:v4
-CMD ["nginx" "-g" "deamon off;"]
+CMD ["nginx", "-g", "deamon off;"]
